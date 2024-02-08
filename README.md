@@ -1,2 +1,2 @@
-### ATM
- - Para yatirip cekebildiginiz, sorgulayabildiginiz kucuk bir atm programi.
+# ATM PROGRAM
+ - An ATM program simulation where you can make money transactions
